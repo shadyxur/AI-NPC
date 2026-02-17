@@ -1,0 +1,11 @@
+Attack Category,N,Leaks,ASR (%),CI_lower (%),CI_upper (%)
+High-Value Token,60,13,21.67,13.12,33.62
+Task Decomposition,90,25,27.78,19.58,37.8
+Information Extraction,90,9,10.0,5.35,17.92
+Transformation,150,24,16.0,10.99,22.7
+Instruction Override,60,1,1.67,0.29,8.86
+Social Engineering,60,0,0.0,0.0,6.02
+Context Confusion,60,1,1.67,0.29,8.86
+Structured Data,90,12,13.33,7.79,21.87
+Multi-Stage,60,16,26.67,17.13,39.01
+Identity Manipulation,30,3,10.0,3.46,25.62

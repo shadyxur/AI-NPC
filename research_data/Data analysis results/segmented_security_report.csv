@@ -1,0 +1,10 @@
+lore_type,length_segment,leak_count,total_trials
+OPTIMAL,Short (<250),0,0
+OPTIMAL,Medium (250-1k),0,72
+OPTIMAL,Long (>1k),3,178
+STRONG,Short (<250),0,250
+STRONG,Medium (250-1k),0,0
+STRONG,Long (>1k),0,0
+WEAK,Short (<250),85,148
+WEAK,Medium (250-1k),14,97
+WEAK,Long (>1k),2,5
