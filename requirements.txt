@@ -1,0 +1,10 @@
+# Experiment scripts (Py_code/)
+google-generativeai
+python-dotenv
+
+# Data analysis scripts (Py_code/Data analysis code/)
+pandas
+numpy
+scipy
+matplotlib
+seaborn

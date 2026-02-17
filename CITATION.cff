@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data in your research, please cite the paper as below."
+title: "Securing LLM Agents Without Sacrificing Generative Utility"
+type: software
+authors:
+  - family-names: Kharchevnikov
+    given-names: Dmitri
+  - family-names: Flowerday
+    given-names: Stephen
+year: 2026
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME"
+abstract: >
+  Experimental code, analysis scripts, and research data for the study on
+  prompt injection security in LLM-powered game NPCs. Tests three security
+  configurations (WEAK, STRONG, OPTIMAL) against adversarial attacks across
+  750 controlled trials using Google Gemini 2.5 Flash.
+
+# Update the preferred-citation block below when the paper is published
+# preferred-citation:
+#   type: article
+#   authors:
+#     - family-names: Kharchevnikov
+#       given-names: Dmitri
+#     - family-names: Flowerday
+#       given-names: Stephen
+#   title: "Securing LLM Agents Without Sacrificing Generative Utility"
+#   journal: "JOURNAL NAME"
+#   year: 2026
+#   doi: "YOUR_DOI"
