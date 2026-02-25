@@ -1,6 +1,6 @@
 # Securing LLM Agents Without Sacrificing Generative Utility
 
-**Authors:** Dmitri Kharchevnikov, Stephen Flowerday
+
 
 > Paper currently under revision. Citation details will be updated upon publication.
 
