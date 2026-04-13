@@ -152,7 +152,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Citation
 
-> Citation will be added upon publication.
+> Kharchevnikov, D., & Flowerday, S. (2026). Securing LLM-powered NPCs without sacrificing generative utility (Paper No. 13). In *Proceedings of the 25th Annual Security Conference*. The Information Institute.
+
 
 ---
 
