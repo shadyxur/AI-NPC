@@ -1,8 +1,8 @@
 # Securing LLM Agents Without Sacrificing Generative Utility
 
+APA 7 Citation:
 
-
-> Paper currently under revision. Citation details will be updated upon publication.
+> Kharchevnikov, D., & Flowerday, S. (2026). Securing LLM-powered NPCs without sacrificing generative utility (Paper No. 13). In *Proceedings of the 25th Annual Security Conference*. The Information Institute.
 
 ---
 
