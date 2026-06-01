@@ -77,7 +77,7 @@ These rest on attack-success rates and on the breach-case review, not on LFI sco
 
 ## Reproducing the correction
 
-`lfi_corrected.py` computes both the original and the corrected LFI from `raw_data.csv` and
+`lfi_corrected3.py` computes both the original and the corrected LFI from `raw_data.csv` and
 writes the per-row scores (`lfi_corrected_scores.csv`), the configuration summary
 (`lfi_correction_summary.csv`), and the before-and-after figure (`lfi_old_vs_new.png`). The
 follow-on multi-turn study does not use the LFI; its rationale for setting the metric aside
