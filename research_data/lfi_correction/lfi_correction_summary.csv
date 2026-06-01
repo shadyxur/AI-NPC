@@ -1,0 +1,6 @@
+lore_type,leaked,n,mean_original,mean_corrected,mean_delta
+OPTIMAL,False,247,3.1296,3.1134,-0.0162
+OPTIMAL,True,3,4.3333,1.6667,-2.6667
+STRONG,False,250,0.0,0.0,0.0
+WEAK,False,149,1.443,1.443,0.0
+WEAK,True,101,3.6139,2.5644,-1.0495
